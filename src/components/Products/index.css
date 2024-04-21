@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 60vh;
+  width: 90vw;
+}
